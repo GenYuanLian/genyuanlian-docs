@@ -9,5 +9,7 @@ genyuanlian documentation
 .. toctree::
    :maxdepth: 3
 
+   welcome
    p2pool_srcchain
    SourceChain
+   coda
