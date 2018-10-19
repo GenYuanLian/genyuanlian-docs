@@ -1,5 +1,6 @@
 # 根源链官方文档
-欢迎查看根源链官方文档。链接：http://genyuanlian-docs.readthedocs.io 
+欢迎查看根源链官方文档。
+链接：http://genyuanlian-docs.readthedocs.io 
 
 # 构建状态
 [![Documentation Status](https://readthedocs.org/projects/genyuanlian-docs/badge/?version=latest)](http://genyuanlian-docs.readthedocs.io/zh_CN/latest/?badge=latest)
